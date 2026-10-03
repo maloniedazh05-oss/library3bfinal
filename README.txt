@@ -22,6 +22,6 @@ create table session (
     end_time varchar(10)
 );
 
---==================================================
+-- ==================================================
 
-Access the system in browser: "localhost/projectname"
+-- Access the system in browser: "localhost/projectname"
